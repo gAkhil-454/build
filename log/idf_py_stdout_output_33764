@@ -1,0 +1,362 @@
+[1/352] Performing build step for 'bootloader'
+[1/1] cd /home/akhil/Indevz/Micropython_Esp32/micropython/ports/esp32/build/bootloader/esp-idf/esptool_py && /home/akhil/.espressif/python_env/idf5.2_py3.10_env/bin/python /home/akhil/esp/esp-idf-v5.2.2/components/partition_table/check_sizes.py --offset 0x8000 bootloader 0x1000 /home/akhil/Indevz/Micropython_Esp32/micropython/ports/esp32/build/bootloader/bootloader.bin
+Bootloader binary size 0x5ae0 bytes. 0x1520 bytes (19%) free.
+[2/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/port/os_xtensa.c.obj
+[3/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/ap/ap_config.c.obj
+[4/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/ap/ieee802_1x.c.obj
+[5/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/ap/pmksa_cache_auth.c.obj
+[6/350] Building C object esp-idf/esp_phy/CMakeFiles/__idf_esp_phy.dir/src/phy_init.c.obj
+[7/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/ap/wpa_auth_ie.c.obj
+[8/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/ap/sta_info.c.obj
+[9/350] Building C object esp-idf/esp_common/CMakeFiles/__idf_esp_common.dir/src/esp_err_to_name.c.obj
+[10/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/ap/comeback_token.c.obj
+[11/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/port/eloop.c.obj
+[12/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/common/dragonfly.c.obj
+[13/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/utils/bitfield.c.obj
+[14/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/sha256-kdf.c.obj
+[15/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/aes-siv.c.obj
+[16/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/ap/ieee802_11.c.obj
+[17/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/dh_group5.c.obj
+[18/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/ccmp.c.obj
+[19/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/crypto_ops.c.obj
+[20/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/aes-gcm.c.obj
+[21/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/dh_groups.c.obj
+[22/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/sha1-tlsprf.c.obj
+[23/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/sha384-tlsprf.c.obj
+[24/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/common/wpa_common.c.obj
+[25/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/sha256-tlsprf.c.obj
+[26/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/ms_funcs.c.obj
+[27/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/sha1-prf.c.obj
+[28/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/sha256-prf.c.obj
+[29/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/sha1-tprf.c.obj
+[30/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/ap/wpa_auth.c.obj
+[31/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_common/eap_wsc_common.c.obj
+[32/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/sha384-prf.c.obj
+[33/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/md4-internal.c.obj
+[34/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/chap.c.obj
+[35/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap_common.c.obj
+[36/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/common/ieee802_11_common.c.obj
+[37/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap_tls.c.obj
+[38/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap_peap_common.c.obj
+[39/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/mschapv2.c.obj
+[40/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap_mschapv2.c.obj
+[41/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap_fast_common.c.obj
+[42/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap_tls_common.c.obj
+[43/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/common/sae.c.obj
+[44/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap.c.obj
+[45/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap_peap.c.obj
+[46/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/rsn_supp/pmksa_cache.c.obj
+[47/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/utils/ext_password.c.obj
+[48/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/utils/base64.c.obj
+[49/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/rsn_supp/wpa_ie.c.obj
+[50/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/utils/uuid.c.obj
+[51/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap_ttls.c.obj
+[52/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/utils/wpa_debug.c.obj
+[53/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/utils/wpabuf.c.obj
+[54/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap_fast_pac.c.obj
+[55/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/utils/common.c.obj
+[56/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/wps/wps_attr_parse.c.obj
+[57/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/wps/wps_attr_process.c.obj
+[58/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/wps/wps.c.obj
+[59/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/eap_peer/eap_fast.c.obj
+[60/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/wps/wps_dev_attr.c.obj
+[61/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/wps/wps_common.c.obj
+[62/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/wps/wps_attr_build.c.obj
+[63/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/utils/json.c.obj
+[64/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/esp_wpas_glue.c.obj
+[65/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/esp_common.c.obj
+[66/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/rsn_supp/wpa.c.obj
+[67/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/common/sae_pk.c.obj
+[68/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/esp_owe.c.obj
+[69/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/esp_wpa_main.c.obj
+[70/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/wps/wps_enrollee.c.obj
+[71/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/esp_eap_client.c.obj
+[72/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/esp_wpa3.c.obj
+[73/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/esp_hostap.c.obj
+[74/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/crypto/fastpbkdf2.c.obj
+[75/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/crypto/crypto_mbedtls-bignum.c.obj
+[76/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/crypto/crypto_mbedtls-rsa.c.obj
+[77/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/rc4.c.obj
+[78/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/crypto/crypto_mbedtls.c.obj
+[79/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/aes-wrap.c.obj
+[80/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/crypto/tls_mbedtls.c.obj
+[81/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/aes-unwrap.c.obj
+[82/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/des-internal.c.obj
+[83/350] Building C object esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/src/wifi_default_ap.c.obj
+[84/350] Building C object esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/src/smartconfig.c.obj
+[85/350] Building C object esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/src/wifi_netif.c.obj
+[86/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/src/crypto/aes-ccm.c.obj
+[87/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/esp_wps.c.obj
+[88/350] Building C object esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/src/wifi_init.c.obj
+[89/350] Building C object esp-idf/bt/CMakeFiles/__idf_bt.dir/common/api/esp_blufi_api.c.obj
+[90/350] Building C object esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/src/wifi_default.c.obj
+[91/350] Building C object esp-idf/bt/CMakeFiles/__idf_bt.dir/common/btc/profile/esp/blufi/blufi_protocol.c.obj
+[92/350] Building C object esp-idf/bt/CMakeFiles/__idf_bt.dir/common/btc/core/btc_task.c.obj
+[93/350] Building C object esp-idf/bt/CMakeFiles/__idf_bt.dir/common/btc/profile/esp/blufi/nimble_host/esp_blufi.c.obj
+[94/350] Building C object esp-idf/bt/CMakeFiles/__idf_bt.dir/common/btc/profile/esp/blufi/blufi_prf.c.obj
+[95/350] Building C object esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/src/smartconfig_ack.c.obj
+[96/350] Building C object esp-idf/esp_wifi/CMakeFiles/__idf_esp_wifi.dir/esp32/esp_adapter.c.obj
+[97/350] Building C object esp-idf/wifi_provisioning/CMakeFiles/__idf_wifi_provisioning.dir/src/wifi_scan.c.obj
+[98/350] Building C object esp-idf/wifi_provisioning/CMakeFiles/__idf_wifi_provisioning.dir/src/handlers.c.obj
+[99/350] Linking C static library esp-idf/esp_wifi/libesp_wifi.a
+[100/350] Building C object esp-idf/wifi_provisioning/CMakeFiles/__idf_wifi_provisioning.dir/src/scheme_console.c.obj
+[101/350] Building C object esp-idf/wifi_provisioning/CMakeFiles/__idf_wifi_provisioning.dir/src/scheme_softap.c.obj
+[102/350] Building C object esp-idf/wpa_supplicant/CMakeFiles/__idf_wpa_supplicant.dir/esp_supplicant/src/crypto/crypto_mbedtls-ec.c.obj
+[103/350] Building C object esp-idf/wifi_provisioning/CMakeFiles/__idf_wifi_provisioning.dir/src/scheme_ble.c.obj
+[104/350] Linking C static library esp-idf/wpa_supplicant/libwpa_supplicant.a
+[105/350] Linking C static library esp-idf/esp_phy/libesp_phy.a
+[106/350] Linking C static library esp-idf/esp_common/libesp_common.a
+[107/350] Linking C static library esp-idf/bt/libbt.a
+[108/350] cd /home/akhil/Indevz/Micropython_Esp32/micropython/ports/esp32/build/esp-idf/main_esp32 && /home/akhil/.espressif/tools/cmake/3.24.0/bin/cmake -E make_directory /home/akhil/Indevz/Micropython_Esp32/micropython/ports/esp32/build/genhdr && /home/akhil/.espressif/python_env/idf5.2_py3.10_env/bin/python /home/akhil/Indevz/Micropython_Esp32/micropython/py/makeversionhdr.py /home/akhil/Indevz/Micropython_Esp32/micropython/ports/esp32/build/genhdr/mpversion.h
+[109/338] cd /home/akhil/Indevz/Micropython_Esp32/micropython/ports/esp32/build/esp-idf/main_esp32 && /home/akhil/.espressif/python_env/idf5.2_py3.10_env/bin/python /home/akhil/Indevz/Micropython_Esp32/micropython/tools/makemanifest.py -o /home/akhil/Indevz/Micropython_Esp32/micropython/ports/esp32/build/frozen_content.c -v BOARD_DIR=/home/akhil/Indevz/Micropython_Esp32/micropython/ports/esp32/boards/ESP32_GENERIC -v MPY_DIR=/home/akhil/Indevz/Micropython_Esp32/micropython -v MPY_LIB_DIR=/home/akhil/Indevz/Micropython_Esp32/micropython/lib/micropython-lib -v PORT_DIR=/home/akhil/Indevz/Micropython_Esp32/micropython/ports/esp32 -b /home/akhil/Indevz/Micropython_Esp32/micropython/ports/esp32/build -f-march=xtensawin --mpy-tool-flags= /home/akhil/Indevz/Micropython_Esp32/micropython/ports/esp32/boards/manifest.py
+[110/338] Building C object esp-idf/wifi_provisioning/CMakeFiles/__idf_wifi_provisioning.dir/src/manager.c.obj
+[111/338] Linking C static library esp-idf/wifi_provisioning/libwifi_provisioning.a
+[112/338] Building C object esp-idf/espressif__mdns/CMakeFiles/__idf_espressif__mdns.dir/mdns.c.obj
+[113/338] Linking C static library esp-idf/espressif__mdns/libespressif__mdns.a
+[114/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/asmx86.c.obj
+[115/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/asmthumb.c.obj
+[116/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/asmx64.c.obj
+[117/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/asmarm.c.obj
+[118/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/asmbase.c.obj
+[119/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/argcheck.c.obj
+[120/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/builtinevex.c.obj
+[121/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/binary.c.obj
+[122/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/builtinhelp.c.obj
+[123/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/asmxtensa.c.obj
+[124/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/bc.c.obj
+[125/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/builtinimport.c.obj
+[126/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/emitcommon.c.obj
+[127/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/emitinlinethumb.c.obj
+[128/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/emitnarm.c.obj
+[129/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/emitglue.c.obj
+[130/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/emitinlinextensa.c.obj
+[131/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/emitnx64.c.obj
+[132/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/emitnthumb.c.obj
+[133/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/emitnx86.c.obj
+[134/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/emitnxtensa.c.obj
+[135/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/frozenmod.c.obj
+[136/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/malloc.c.obj
+[137/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/modarray.c.obj
+[138/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/formatfloat.c.obj
+[139/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/emitbc.c.obj
+[140/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/map.c.obj
+[141/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/modcollections.c.obj
+[142/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/modcmath.c.obj
+[143/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/gc.c.obj
+[144/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/lexer.c.obj
+[145/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/modbuiltins.c.obj
+[146/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/modio.c.obj
+[147/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/modgc.c.obj
+[148/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/modmicropython.c.obj
+[149/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/modsys.c.obj
+[150/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/modthread.c.obj
+[151/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/modstruct.c.obj
+[152/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/moderrno.c.obj
+[153/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/mpstate.c.obj
+[154/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/modmath.c.obj
+[155/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/nlrmips.c.obj
+[156/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/nlr.c.obj
+[157/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/mpprint.c.obj
+[158/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/nativeglue.c.obj
+[159/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/nlrpowerpc.c.obj
+[160/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/nlrx64.c.obj
+[161/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/nlrsetjmp.c.obj
+[162/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/nlrx86.c.obj
+[163/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/nlrthumb.c.obj
+[164/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/nlrxtensa.c.obj
+[165/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/objattrtuple.c.obj
+[166/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/objbool.c.obj
+[167/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/objboundmeth.c.obj
+[168/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/objclosure.c.obj
+[169/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/objarray.c.obj
+[170/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/objcell.c.obj
+[171/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/objdeque.c.obj
+[172/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/objcomplex.c.obj
+[173/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/obj.c.obj
+[174/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/objfilter.c.obj
+[175/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/emitnxtensawin.c.obj
+[176/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/objenumerate.c.obj
+[177/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/compile.c.obj
+[178/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/objgetitemiter.c.obj
+[179/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/mpz.c.obj
+[180/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/objfloat.c.obj
+[181/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/objexcept.c.obj
+[182/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/objgenerator.c.obj
+[183/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/objint_longlong.c.obj
+[184/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/objfun.c.obj
+[185/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/objdict.c.obj
+[186/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/objmodule.c.obj
+[187/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/objint.c.obj
+[188/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/objmap.c.obj
+[189/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/objnone.c.obj
+[190/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/objnamedtuple.c.obj
+[191/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/objobject.c.obj
+[192/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/objint_mpz.c.obj
+[193/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/objpolyiter.c.obj
+[194/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/objlist.c.obj
+[195/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/objproperty.c.obj
+[196/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/objreversed.c.obj
+[197/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/objsingleton.c.obj
+[198/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/objrange.c.obj
+[199/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/objslice.c.obj
+[200/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/objstringio.c.obj
+[201/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/objstrunicode.c.obj
+[202/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/objtuple.c.obj
+[203/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/objzip.c.obj
+[204/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/objset.c.obj
+[205/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/pairheap.c.obj
+[206/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/opmethods.c.obj
+[207/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/parsenumbase.c.obj
+[208/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/pystack.c.obj
+[209/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/profile.c.obj
+[210/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/parsenum.c.obj
+[211/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/objtype.c.obj
+[212/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/reader.c.obj
+[213/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/persistentcode.c.obj
+[214/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/runtime_utils.c.obj
+[215/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/qstr.c.obj
+[216/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/scheduler.c.obj
+[217/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/smallint.c.obj
+[218/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/showbc.c.obj
+[219/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/repl.c.obj
+[220/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/sequence.c.obj
+[221/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/stackctrl.c.obj
+[222/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/scope.c.obj
+[223/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/unicode.c.obj
+[224/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/warning.c.obj
+[225/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/parse.c.obj
+[226/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/vstr.c.obj
+[227/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/shared/libc/abort_.c.obj
+[228/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/stream.c.obj
+[229/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/shared/libc/printf.c.obj
+[230/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/btstack/modbluetooth_btstack.c.obj
+[231/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/objstr.c.obj
+[232/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/machine_bitstream.c.obj
+[233/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/machine_adc.c.obj
+[234/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/machine_pulse.c.obj
+[235/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/runtime.c.obj
+[236/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/machine_mem.c.obj
+[237/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/machine_adc_block.c.obj
+[238/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/machine_spi.c.obj
+[239/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/machine_wdt.c.obj
+[240/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/machine_i2c.c.obj
+[241/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/machine_i2s.c.obj
+[242/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/machine_uart.c.obj
+In file included from /home/akhil/Indevz/Micropython_Esp32/micropython/extmod/machine_uart.c:62:
+/home/akhil/Indevz/Micropython_Esp32/micropython/ports/esp32/machine_uart.c: In function 'mp_machine_uart_init_helper':
+/home/akhil/Indevz/Micropython_Esp32/micropython/ports/esp32/machine_uart.c:309:13: warning: 'UART_FIFO_LEN' macro is deprecated, please use 'UART_HW_FIFO_LEN' instead
+  309 |     check_esp_err(uart_set_hw_flow_ctrl(self->uart_num, self->flowcontrol, UART_FIFO_LEN - UART_FIFO_LEN / 4));
+      |             ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/home/akhil/Indevz/Micropython_Esp32/micropython/ports/esp32/machine_uart.c:309:13: warning: 'UART_FIFO_LEN' macro is deprecated, please use 'UART_HW_FIFO_LEN' instead
+[243/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/machine_signal.c.obj
+[244/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/machine_pwm.c.obj
+[245/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/modlwip.c.obj
+[246/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/modnetwork.c.obj
+[247/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/modbinascii.c.obj
+[248/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/modmachine.c.obj
+[249/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/modcryptolib.c.obj
+[250/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/modonewire.c.obj
+[251/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/modasyncio.c.obj
+[252/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/py/vm.c.obj
+[253/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/modhashlib.c.obj
+[254/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/modheapq.c.obj
+[255/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/modbluetooth.c.obj
+[256/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/moductypes.c.obj
+[257/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/modplatform.c.obj
+[258/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/modframebuf.c.obj
+[259/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/modos.c.obj
+[260/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/modrandom.c.obj
+[261/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/modjson.c.obj
+[262/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/modsocket.c.obj
+[263/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/modssl_axtls.c.obj
+[264/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/network_cyw43.c.obj
+[265/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/moddeflate.c.obj
+[266/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/modtime.c.obj
+[267/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/modselect.c.obj
+[268/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/modwebsocket.c.obj
+[269/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/modwebrepl.c.obj
+[270/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/network_ninaw10.c.obj
+[271/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/network_wiznet5k.c.obj
+[272/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/network_lwip.c.obj
+[273/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/vfs_blockdev.c.obj
+[274/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/os_dupterm.c.obj
+[275/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/modssl_mbedtls.c.obj
+[276/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/modre.c.obj
+[277/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/vfs_fat_file.c.obj
+[278/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/vfs_fat_diskio.c.obj
+[279/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/vfs_posix.c.obj
+[280/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/vfs_fat.c.obj
+[281/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/vfs_posix_file.c.obj
+[282/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/virtpin.c.obj
+[283/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/vfs_reader.c.obj
+[284/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/vfs.c.obj
+[285/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/shared/netutils/netutils.c.obj
+[286/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/shared/runtime/interrupt_char.c.obj
+[287/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/shared/readline/readline.c.obj
+[288/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/shared/runtime/stdout_helpers.c.obj
+[289/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/shared/timeutils/timeutils.c.obj
+[290/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/modbtree.c.obj
+[291/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/vfs_lfs.c.obj
+[292/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/shared/runtime/sys_stdio_mphal.c.obj
+[293/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/lib/oofatfs/ffunicode.c.obj
+[294/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/drivers/dht/dht.c.obj
+[295/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/__/adc.c.obj
+[296/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/__/usb.c.obj
+[297/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/__/usb_serial_jtag.c.obj
+[298/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/shared/runtime/pyexec.c.obj
+[299/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/__/main.c.obj
+[300/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/drivers/bus/softspi.c.obj
+[301/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/__/uart.c.obj
+/home/akhil/Indevz/Micropython_Esp32/micropython/ports/esp32/uart.c: In function 'uart_stdout_init':
+/home/akhil/Indevz/Micropython_Esp32/micropython/ports/esp32/uart.c:61:34: warning: passing argument 2 of 'uart_hal_get_sclk' from incompatible pointer type [-Wincompatible-pointer-types]
+   61 |     uart_hal_get_sclk(&repl_hal, &sclk); // To restore SCLK after uart_hal_init() resets it
+      |                                  ^~~~~
+      |                                  |
+      |                                  uart_sclk_t * {aka soc_periph_uart_clk_src_legacy_t *}
+In file included from /home/akhil/Indevz/Micropython_Esp32/micropython/ports/esp32/uart.c:39:
+/home/akhil/esp/esp-idf-v5.2.2/components/hal/include/hal/uart_hal.h:209:67: note: expected 'soc_module_clk_t *' but argument is of type 'uart_sclk_t *' {aka 'soc_periph_uart_clk_src_legacy_t *'}
+  209 | void uart_hal_get_sclk(uart_hal_context_t *hal, soc_module_clk_t *sclk);
+      |                                                 ~~~~~~~~~~~~~~~~~~^~~~
+[302/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/__/fatfs_port.c.obj
+[303/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/__/help.c.obj
+[304/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/__/gccollect.c.obj
+[305/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/extmod/nimble/modbluetooth_nimble.c.obj
+[306/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/__/mphalport.c.obj
+[307/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/__/machine_bitstream.c.obj
+[308/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/__/machine_touchpad.c.obj
+[309/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/__/machine_dac.c.obj
+[310/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/__/machine_timer.c.obj
+[311/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/__/machine_i2c.c.obj
+[312/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/__/network_common.c.obj
+[313/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/__/mpnimbleport.c.obj
+[314/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/__/network_ppp.c.obj
+[315/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/__/network_lan.c.obj
+[316/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/__/machine_pin.c.obj
+[317/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/__/esp32_nvs.c.obj
+[318/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/__/modesp.c.obj
+[319/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/__/esp32_partition.c.obj
+[320/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/__/esp32_ulp.c.obj
+[321/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/__/esp32_rmt.c.obj
+[322/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/__/network_wlan.c.obj
+[323/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/__/__/pins.c.obj
+[324/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/__/modesp32.c.obj
+[325/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/__/mpthreadport.c.obj
+[326/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/__/modsocket.c.obj
+[327/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/__/machine_rtc.c.obj
+[328/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/__/machine_sdcard.c.obj
+[329/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/__/machine_hw_spi.c.obj
+[330/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/__/__/frozen_content.c.obj
+[331/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/__/modespnow.c.obj
+[332/338] Building C object esp-idf/main_esp32/CMakeFiles/__idf_main_esp32.dir/home/akhil/Indevz/Micropython_Esp32/micropython/lib/oofatfs/ff.c.obj
+[333/338] Linking C static library esp-idf/main_esp32/libmain_esp32.a
+[334/338] Generating ld/sections.ld
+[335/338] Building C object CMakeFiles/micropython.elf.dir/project_elf_src_esp32.c.obj
+[336/338] Linking CXX executable micropython.elf
+[337/338] Generating binary image from built executable
+esptool.py v4.7.0
+Creating esp32 image...
+Merged 2 ELF sections
+Successfully created esp32 image.
+Generated /home/akhil/Indevz/Micropython_Esp32/micropython/ports/esp32/build/micropython.bin
+[338/338] cd /home/akhil/Indevz/Micropython_Esp32/micropython/ports/esp32/build/esp-idf/esptool_py && /home/akhil/.espressif/python_env/idf5.2_py3.10_env/bin/python /home/akhil/esp/esp-idf-v5.2.2/components/partition_table/check_sizes.py --offset 0x8000 partition --type app /home/akhil/Indevz/Micropython_Esp32/micropython/ports/esp32/build/partition_table/partition-table.bin /home/akhil/Indevz/Micropython_Esp32/micropython/ports/esp32/build/micropython.bin
+micropython.bin binary size 0x196590 bytes. Smallest app partition is 0x1f0000 bytes. 0x59a70 bytes (18%) free.
